@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Just Your Friendly Neighbourhood Analyst </h1>
+<h1 align="center">Hi 🥸, Just Your Friendly Neighbourhood Analyst </h1>
 <h3 align="center">A Passionate Young Data Analyst Looking to Make an Impact!</h3>
 
 - 🔭 I’m currently working on **Myself!!**
