@@ -9,7 +9,7 @@
 
 - 🤝 I'm looking for a Mid - Senior Role in BI **Marketing, & Data Science**
 
-- 👨‍💻 Check out Some of the Dashboards I Created [Pinned](Pinned)
+- 👨‍💻 Check out Some of the Dashboards I Created Through PowerBI, Tableau, & Excel!
 
 - 💬 Ask me about **MySQL,PowerBI,Tableau,Excel**
 
