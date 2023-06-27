@@ -11,11 +11,13 @@
 
 - 👨‍💻 Check out Some of the Dashboards I Created Through PowerBI, Tableau, & Excel!
 
-- 💬 Ask me about **MySQL,PowerBI,Tableau,Excel**
+- 💬 Ask me about: **MySQL,PowerBI,Tableau,Excel**
 
 - 📫 How to reach me **Trencio94@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/dominic-trencio-649211266/](https://www.linkedin.com/in/dominic-trencio-649211266/)
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/dominic-trencio-649211266/">Click Here</a>
+
+
 
 - ⚡ Fun fact **I think i'm Funny**
 
