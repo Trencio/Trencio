@@ -19,7 +19,7 @@
 
 
 
-- ⚡ Fun fact **I think i'm Funny**
+- ⚡ Fun fact: **I think i'm Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
