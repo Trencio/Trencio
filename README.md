@@ -1,9 +1,9 @@
 <h1 align="center">Hi 🥸, Just Your Friendly Neighbourhood Analyst </h1>
 <h3 align="center">A Passionate Young Data Analyst Looking to Make an Impact!</h3>
- <img src="https://github.com/Trencio/Trencio/blob/main/giphy.gif" alt="Coder GIF" width="400" height="250"> 
-  
-  <p align="center">
  
+ <img src="https://github.com/Trencio/Trencio/blob/main/giphy.gif" alt="Coder GIF" width="400" height="250"> 
+  <p align="center">
+
   - 🔭 I’m currently working on **Myself!!**
 
 - 🌱 I’m currently learning **Python NumPy & Pandas,& R**
