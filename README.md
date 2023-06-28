@@ -14,7 +14,7 @@
 
 - Check out Some of the Dashboards I Created Through PowerBI, Tableau, & Excel! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="35px" height="35px"/>
 
-- 💬 Ask me about: **MySQL,PowerBI,Tableau,Excel**
+- 💬 Ask me about: **MySQL, PowerBI, Tableau, Excel**
 
 - 📫 How to reach me **Trencio94@gmail.com**
 
