@@ -1,5 +1,5 @@
    <h1 align="left">Hi 🥸, Just Your Friendly Neighbourhood Analyst </h1>
-   <h3 align="left"> +3 Years as a Passionate Young Data Analyst Looking to Make an Impact!</h3>
+   <h3 align="left"> +3 Years As A Passionate Young Data Analyst Looking to Make an Impact!</h3>
  
    <img src="https://github.com/Trencio/Trencio/blob/main/giphy.gif" width="500" height="300"> 
     <p align="centre">
