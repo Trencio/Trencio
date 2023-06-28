@@ -4,16 +4,14 @@
    <img src="https://github.com/Trencio/Trencio/blob/main/giphy.gif" width="500" height="300"> 
     <p align="centre">
 
-- 🔭 I’m currently working on **Myself!!**
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" height="30px">  I’m currently working on **Myself!!**  
 
 - 🌱 I’m currently learning **Python NumPy & Pandas,& R**
 
-- 👯 I’m looking to collaborate on **Business Intelligence Projects**
+- 👯 I’m looking to collaborate on **Business Intelligence Projects**  
 
-- 🤝 I'm looking for a Mid - Senior Role in either **Business, Marketing, & Data Science**
-
-- 👨‍💻 Check out Some of the Dashboards I Created Through PowerBI, Tableau, & Excel!
-
+-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" height="30px"/>  <b> I'm looking for a Mid - Senior Role in either **Business, Marketing, & Data Science** 
+-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="30px" height="30px"/>  Check out Some of the Dashboards I Created Through PowerBI, Tableau, & Excel! <img 
 - 💬 Ask me about: **MySQL,PowerBI,Tableau,Excel**
 
 - 📫 How to reach me **Trencio94@gmail.com**
