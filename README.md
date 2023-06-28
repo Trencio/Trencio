@@ -1,8 +1,8 @@
-  <h1 align="left">Hi 🥸, Just Your Friendly Neighbourhood Analyst </h1>
-  <h3 align="left">A Passionate Young Data Analyst Looking to Make an Impact!</h3>
+   <h1 align="left">Hi 🥸, Just Your Friendly Neighbourhood Analyst </h1>
+   <h3 align="left">A Passionate Young Data Analyst Looking to Make an Impact!</h3>
  
-  <img src="https://github.com/Trencio/Trencio/blob/main/giphy.gif" width="500" height="400"> 
-   <p align="centre">
+   <img src="https://github.com/Trencio/Trencio/blob/main/giphy.gif" width="500" height="400"> 
+    <p align="centre">
 
 - 🔭 I’m currently working on **Myself!!**
 
