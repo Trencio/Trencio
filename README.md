@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Business Intelligence Projects**  
 
-- 🤝 I'm looking for Entry - Mid - Senior Role in either **Business, Marketing, & Data Science** 
+- 🤝 I'm looking for Mid  Role in either **Business, Marketing, & Data Science** 
 
 - Check out Some of the Dashboards I Created Through PowerBI, Tableau, & Excel! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="35px" height="35px"/>
 
